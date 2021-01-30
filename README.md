@@ -1,2 +1,2 @@
 # tip-calculator
-Tip calculator, Day 4
+Tip calculator, Day 3
